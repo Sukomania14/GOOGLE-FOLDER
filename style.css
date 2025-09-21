@@ -86,8 +86,8 @@ section .main .searchBox .search{
    padding-left: 10px;
 }
 section .main .searchBox .icon{
-    width: 20px;
-    height: 20px;
+    width: 25px;
+    height: 25px;
 }
 section .main .buttons{
     margin-top: 20px;
